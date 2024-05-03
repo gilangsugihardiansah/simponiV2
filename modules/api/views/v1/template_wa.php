@@ -1,0 +1,1 @@
+<?=$salam?> Bapak/Ibu, \n\nTerdapat satu pengajuan perjalanan dinas atas nama <?=$nama_pegawai?>. \nKlik disini untuk memberikan rating \nhttps://sppd.hapindo.co.id/web/api/rating/create.html?id=<?=$id?> \n\nTerimakasih.

@@ -1,0 +1,22 @@
+{
+    "name": "perochak/yii2-gii-gentelella",
+    "description": "A Gentelella based CRUD for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "extension"],
+    "license": "MIT",
+    "version":"1.0.0",
+    "authors": [
+        {
+            "name": "Muhammad Amjad",
+            "email": "amjad.mghl@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "perochak\\gii\\": ""
+        }
+    },
+    "require": {
+        "fedemotta/yii2-widget-datatables": "*"
+    }    
+}
